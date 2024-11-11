@@ -9,6 +9,7 @@ BOARD_HEIGHT = 400
 SIDE_PANEL_WIDTH = 100  # Width for each side panel
 
 # Window size (includes side panels)
+
 WINDOW_WIDTH = BOARD_WIDTH + 2 * SIDE_PANEL_WIDTH
 WINDOW_HEIGHT = BOARD_HEIGHT + 25  # Extra height for the scoreboard
 WINDOW_SIZE = (WINDOW_WIDTH, WINDOW_HEIGHT)
